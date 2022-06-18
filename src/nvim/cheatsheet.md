@@ -22,3 +22,4 @@ Quick reference for features that I use frequently.
 * `gu`: command to make text lowercase (ex: `guiw` to make current word lowercase)
 * `gU`: command to make text uppercase (ex: `gUiw` to make current word uppercase)
   * Handy for things like env var names
+* `:noh`: turns off highlighting until the next search. Useful for clearing highlighting after a search until the next one.
