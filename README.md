@@ -1,6 +1,6 @@
 # Notes
 
-Personal notes on various things. Uses [mdBwook](https://rust-lang.github.io/mdBook/index.html).
+Personal notes on various things. Uses [mdBook](https://rust-lang.github.io/mdBook/index.html).
 
 ## Editing
 
