@@ -1,5 +1,7 @@
 # Summary
 
+# Notes
+
 - [Neovim](./nvim/README.md)
   - [Cheatsheet](./nvim/cheatsheet.md)
   - [Resources](./nvim/resources.md)

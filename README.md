@@ -1,6 +1,6 @@
-# Notes
+# drewthomas-dev
 
-Personal notes on various things. Uses [mdBook](https://rust-lang.github.io/mdBook/index.html).
+Personal site. Uses [mdBook](https://rust-lang.github.io/mdBook/index.html).
 
 ## Editing
 

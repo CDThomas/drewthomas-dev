@@ -3,7 +3,7 @@ authors = ["Drew Thomas"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Notes"
+title = "drewthomas.dev"
 
 [output.html]
 no-section-label = true
