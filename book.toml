@@ -6,4 +6,8 @@ src = "src"
 title = "drewthomas.dev"
 
 [output.html]
+git-repository-url = "https://github.com/CDThomas/drewthomas-dev"
 no-section-label = true
+
+[output.html.print]
+enable = false
