@@ -4,7 +4,9 @@ Quick reference for PostgreSQL features that I use frequently
 
 ## [psql](https://www.postgresql.org/docs/current/app-psql.html)
 
-* `\q` quit
+* `\l`: list databases
+* `\c db_name`: connect to the given DB
+* `\q`: quit
 * `\dn`: lists schemas (namespaces). Optionally takes a pattern to filter on: `\dn my_prefix*`
 * `\d [S+]`: show details of each relation that matches the given pattern. Lists all if not given a pattern.
   * Examples: `\d my_table` for a single relation or `\d my_prefix*` for all relations matching a prefix
