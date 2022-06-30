@@ -11,7 +11,7 @@ Quick reference for PostgreSQL features that I use frequently
 * `\d [S+]`: show details of each relation that matches the given pattern. Lists all if not given a pattern.
   * Examples: `\d my_table` for a single relation or `\d my_prefix*` for all relations matching a prefix
 * `\dt [S+]`: similar to `\d` but only for tables
-* `\dT`: lists data types. Can get more info with `\dT+`
+* `\dT`: lists data types. Can get more info (such as the members of enum types) with `\dT+`
 
 ## [DDL](https://www.postgresql.org/docs/current/ddl.html)
 
